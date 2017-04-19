@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="ParallelCoordinatesVolume">
+    <file>Resources/colour_line.png</file>
+    <file>Resources/add_to.png</file>
+  </qresource>
+</RCC>
